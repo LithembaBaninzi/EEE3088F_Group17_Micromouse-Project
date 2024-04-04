@@ -16,6 +16,8 @@ Welcome to the Micro-Mouse project for the year 2024! This project involves buil
   - Sensor board: 2x14 (2.54mm pin pitch) pin headers.
   - Power board: 2x8 (2.54mm pin pitch) pin headers.
 
+![image](https://github.com/LithembaBaninzi/EEE3088F_Group17_Micromouse-Project/assets/160032740/f364a601-29ec-446f-9347-6f49f21be087)
+
 #### 2. The Processor
 
 - **Description**: The processor board features an STM32L476 microcontroller.
