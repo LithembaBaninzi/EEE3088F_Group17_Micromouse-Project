@@ -46,6 +46,15 @@ Welcome to the Micro-Mouse project for the year 2024! This project involves buil
 
 ![image](https://github.com/LithembaBaninzi/EEE3088F_Group17_Micromouse-Project/assets/160032740/ccd93241-cb0e-4c8e-97a0-0ce8243440be)
 
+#### The maze
+The maze will have dead ends, multiple paths to the finishing area with each pixel being a 200mm square.
+There are multiple paths to get to the goal.
+An example is provided below:
+
+
+![image](https://github.com/LithembaBaninzi/EEE3088F_Group17_Micromouse-Project/assets/160032740/0930c01e-27d8-413d-9ee6-9d302549a6f8)
+
+
 ## Project Description
 
 ### Overview
