@@ -5,6 +5,8 @@ Designing a micromouse
 
 Welcome to the Micro-Mouse project for the year 2024! This project involves building subassemblies for your very own simplified micro-mouse, a maze-solving robot. While your micro-mouse may not match the speed of those featured in popular videos, this project serves as an exciting opportunity to delve into hardware design and some minor software components. Let's get started!
 
+![image](https://github.com/LithembaBaninzi/EEE3088F_Group17_Micromouse-Project/assets/160032740/a1bedfed-049d-4eec-bc05-01428b759e61)
+
 ### Modules Description
 
 #### 1. The Motherboard
