@@ -34,6 +34,8 @@ Welcome to the Micro-Mouse project for the year 2024! This project involves buil
   - Charge the battery from the 5V input pin.
   - Include an ON/OFF switch.
 
+![image](https://github.com/LithembaBaninzi/EEE3088F_Group17_Micromouse-Project/assets/160032740/ef25912a-1cad-42b1-8840-e74d401e6da1)
+
 #### 4. Sensor Module
 
 - **Description**: Responsible for detecting/sensing objects in the micro-mouse's path.
