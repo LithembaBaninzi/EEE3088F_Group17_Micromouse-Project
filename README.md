@@ -23,6 +23,8 @@ Welcome to the Micro-Mouse project for the year 2024! This project involves buil
 - **Description**: The processor board features an STM32L476 microcontroller.
 - **Interface**: Detailed pinouts are provided for connections.
 
+![image](https://github.com/LithembaBaninzi/EEE3088F_Group17_Micromouse-Project/assets/160032740/739b12cd-66b0-4dd0-b219-8a5c74271aff)
+
 #### 3. Power Module
 
 - **Description**: Responsible for powering the entire system and charging the battery.
