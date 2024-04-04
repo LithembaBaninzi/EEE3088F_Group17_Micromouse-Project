@@ -44,6 +44,8 @@ Welcome to the Micro-Mouse project for the year 2024! This project involves buil
   - Design for reliability and power efficiency.
   - Interface with the processor to indicate sensed obstacles.
 
+![image](https://github.com/LithembaBaninzi/EEE3088F_Group17_Micromouse-Project/assets/160032740/ccd93241-cb0e-4c8e-97a0-0ce8243440be)
+
 ## Project Description
 
 ### Overview
