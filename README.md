@@ -7,6 +7,11 @@ Welcome to the Micro-Mouse project for the year 2024! This project involves buil
 
 ![image](https://github.com/LithembaBaninzi/EEE3088F_Group17_Micromouse-Project/assets/160032740/a1bedfed-049d-4eec-bc05-01428b759e61)
 
+### Subsystem Specifications
+
+Detailed specifications and requirements for each subsystem are provided, including pinouts, connector types, power requirements, and considerations for design and functionality.
+
+
 ### Modules Description
 
 #### 1. The Motherboard
@@ -56,17 +61,6 @@ An example is provided below:
 
 ![image](https://github.com/LithembaBaninzi/EEE3088F_Group17_Micromouse-Project/assets/160032740/0930c01e-27d8-413d-9ee6-9d302549a6f8)
 
-
-## Project Description
-
-### Overview
-
-- You will work in groups, with each member assigned to design either the power or sensing subsystem.
-- Individual assessments will be conducted, and marks will be awarded accordingly.
-
-### Subsystem Specifications
-
-Detailed specifications and requirements for each subsystem are provided, including pinouts, connector types, power requirements, and considerations for design and functionality.
 
 ## Resources
 
